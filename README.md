@@ -41,7 +41,11 @@ Learning Objectives
 This project helps beginners understand:
 
 *Python programming basics
+
 *Menu-driven applications
+
 *Looping and decision making
+
 *Managing simple transaction records
+
 *Building console-based applications
